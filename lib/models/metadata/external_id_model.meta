@@ -1,0 +1,1 @@
+{"className":"ExternalIdModel","fileName":"external_id_model.dart","imports":[],"fields":[{"json_field":"imdb","name":"imdb","isSnakeCase":true,"type":"String?"},{"json_field":"tmdb","name":"tmdb","isSnakeCase":true,"type":"int?"},{"json_field":"kpHD","name":"kpHD","isSnakeCase":false,"type":"String?"}]}

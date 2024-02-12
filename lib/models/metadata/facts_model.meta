@@ -1,0 +1,1 @@
+{"className":"FactsModel","fileName":"facts_model.dart","imports":[],"fields":[{"json_field":"value","name":"value","isSnakeCase":true,"type":"String?"},{"json_field":"type","name":"type","isSnakeCase":true,"type":"String?"},{"json_field":"spoiler","name":"spoiler","isSnakeCase":true,"type":"bool?"}]}

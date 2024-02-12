@@ -1,0 +1,1 @@
+{"className":"WatchabilityModel","fileName":"watchability_model.dart","imports":["items_model.dart"],"fields":[{"json_field":"items","name":"items","isSnakeCase":true,"type":"List<ItemsModel>?"}]}

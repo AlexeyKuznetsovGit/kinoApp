@@ -1,0 +1,1 @@
+{"className":"UsaModel","fileName":"usa_model.dart","imports":[],"fields":[{"json_field":"value","name":"value","isSnakeCase":true,"type":"int?"},{"json_field":"currency","name":"currency","isSnakeCase":true,"type":"String?"}]}

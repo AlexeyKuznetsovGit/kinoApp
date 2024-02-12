@@ -1,0 +1,1 @@
+{"className":"ItemsModel","fileName":"items_model.dart","imports":["logo_model.dart"],"fields":[{"json_field":"name","name":"name","isSnakeCase":true,"type":"String?"},{"json_field":"logo","name":"logo","isSnakeCase":true,"type":"LogoModel?"},{"json_field":"url","name":"url","isSnakeCase":true,"type":"String?"}]}

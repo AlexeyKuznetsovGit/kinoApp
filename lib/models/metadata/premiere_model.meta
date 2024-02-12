@@ -1,0 +1,1 @@
+{"className":"PremiereModel","fileName":"premiere_model.dart","imports":[],"fields":[{"json_field":"world","name":"world","isSnakeCase":true,"type":"String?"},{"json_field":"russia","name":"russia","isSnakeCase":true,"type":"String?"},{"json_field":"bluray","name":"bluray","isSnakeCase":true,"type":"String?"},{"json_field":"dvd","name":"dvd","isSnakeCase":true,"type":"String?"}]}

@@ -1,0 +1,1 @@
+{"className":"FeesModel","fileName":"fees_model.dart","imports":["world_model.dart","usa_model.dart"],"fields":[{"json_field":"world","name":"world","isSnakeCase":true,"type":"WorldModel?"},{"json_field":"usa","name":"usa","isSnakeCase":true,"type":"UsaModel?"}]}

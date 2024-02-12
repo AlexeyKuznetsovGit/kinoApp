@@ -1,0 +1,1 @@
+{"className":"NamesModel","fileName":"names_model.dart","imports":[],"fields":[{"json_field":"name","name":"name","isSnakeCase":true,"type":"String?"},{"json_field":"language","name":"language","isSnakeCase":true,"type":"String?"},{"json_field":"type","name":"type","isSnakeCase":true,"type":"String?"}]}

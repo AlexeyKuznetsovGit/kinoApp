@@ -1,0 +1,1 @@
+{"className":"AudienceModel","fileName":"audience_model.dart","imports":[],"fields":[{"json_field":"count","name":"count","isSnakeCase":true,"type":"int?"},{"json_field":"country","name":"country","isSnakeCase":true,"type":"String?"}]}

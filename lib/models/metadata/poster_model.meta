@@ -1,0 +1,1 @@
+{"className":"PosterModel","fileName":"poster_model.dart","imports":[],"fields":[{"json_field":"url","name":"url","isSnakeCase":true,"type":"String?"},{"json_field":"previewUrl","name":"previewUrl","isSnakeCase":false,"type":"String?"}]}

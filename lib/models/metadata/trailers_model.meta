@@ -1,0 +1,1 @@
+{"className":"TrailersModel","fileName":"trailers_model.dart","imports":[],"fields":[{"json_field":"url","name":"url","isSnakeCase":true,"type":"String?"},{"json_field":"name","name":"name","isSnakeCase":true,"type":"String?"},{"json_field":"site","name":"site","isSnakeCase":true,"type":"String?"},{"json_field":"type","name":"type","isSnakeCase":true,"type":"String?"}]}

@@ -1,0 +1,1 @@
+{"className":"VideosModel","fileName":"videos_model.dart","imports":["trailers_model.dart"],"fields":[{"json_field":"trailers","name":"trailers","isSnakeCase":true,"type":"List<TrailersModel>?"}]}

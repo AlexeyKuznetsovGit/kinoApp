@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "538435620402",
+    "project_id": "kino-app-8b5eb",
+    "storage_bucket": "kino-app-8b5eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538435620402:android:aa369d68021ee2bc7df62b",
+        "android_client_info": {
+          "package_name": "com.kuznetsov.kinoapp.kino_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp0oReenDAp4fd0TSYnaoIT4_m8nvRAYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
